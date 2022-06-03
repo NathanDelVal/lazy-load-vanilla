@@ -1,5 +1,5 @@
 # lazy-load-vanilla
-Lazy Load genérico para imagens e frames usando JS puro (vanilla)
+Lazy Load genérico para imagens e frames usando JS puro (vanilla) <br>
 Generic Lazy Load for images and frames using pure JS (vanilla)
 
 ------------IMPORTANTE------------ <br>
